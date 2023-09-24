@@ -9,3 +9,6 @@ Concatenación con ejemplos
 
 ## Definir reglas de variables
 Ejemplos de definición de variables en java
+
+## Definir Caracteres especiales
+Ejemplo de carcteres especiales en java para salida en consola
