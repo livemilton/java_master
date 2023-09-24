@@ -12,3 +12,6 @@ Ejemplos de definición de variables en java
 
 ## Definir Caracteres especiales
 Ejemplo de carcteres especiales en java para salida en consola
+
+## Definir clase scanner
+Ejemplo de ingreso de datos con scanner

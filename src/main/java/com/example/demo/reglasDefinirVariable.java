@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class reglasDefinirVariable {
+public class ReglasDefinirVariable {
 
     public static void main(String[] args) {
 
