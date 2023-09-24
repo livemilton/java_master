@@ -6,3 +6,6 @@ asignación y ejemplo
 
 ## Concatenación en Java
 Concatenación con ejemplos
+
+## Definir reglas de variables
+Ejemplos de definición de variables en java
