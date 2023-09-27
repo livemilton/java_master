@@ -15,3 +15,6 @@ Ejemplo de carcteres especiales en java para salida en consola
 
 ## Definir clase scanner
 Ejemplo de ingreso de datos con scanner
+
+## Definir Tipos primitivos Integers
+Ejemplo de tipo de datos primitivos Integers
