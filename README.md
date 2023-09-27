@@ -21,3 +21,6 @@ Ejemplo de tipo de datos primitivos Integers
 
 ## Definir Tipos Hexadecimal, Octal, Decimal
 Ejemplo de tipos Hexadecimal, Octal, Decimal
+
+## Definir Tipos Primitivos Float y Double
+Ejemplo de tipos Double y Float
