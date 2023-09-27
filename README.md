@@ -18,3 +18,6 @@ Ejemplo de ingreso de datos con scanner
 
 ## Definir Tipos primitivos Integers
 Ejemplo de tipo de datos primitivos Integers
+
+## Definir Tipos Hexadecimal, Octal, Decimal
+Ejemplo de tipos Hexadecimal, Octal, Decimal
