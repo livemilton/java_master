@@ -24,3 +24,9 @@ Ejemplo de tipos Hexadecimal, Octal, Decimal
 
 ## Definir Tipos Primitivos Float y Double
 Ejemplo de tipos Double y Float
+
+## Definir tipos Char y Boolean
+Ejemplo de tipos Char y Boolean
+
+## Conversion tipos primitivos
+Ejemplo de conversion tipos primitivos
