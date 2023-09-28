@@ -30,3 +30,8 @@ Ejemplo de tipos Char y Boolean
 
 ## Conversion tipos primitivos
 Ejemplo de conversion tipos primitivos
+
+## Operadores Java
+Operadores Asignacion
+Operadores Igualdad y Relacionales
+Operadores Java
