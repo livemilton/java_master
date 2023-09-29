@@ -40,3 +40,7 @@ Operadores Java
 Ejemplo de Operadores Condicionales
 Ejemplo de Operadores Ternarios
 Ejemplo de Operadores y Precedencia
+
+## Sentencias de Control
+Ejemplo sentencia If else
+Ejemplo Sentencia Switch
