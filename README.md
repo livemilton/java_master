@@ -35,3 +35,8 @@ Ejemplo de conversion tipos primitivos
 Operadores Asignacion
 Operadores Igualdad y Relacionales
 Operadores Java
+
+## Operadores Condicionales Ternario Precedencia
+Ejemplo de Operadores Condicionales
+Ejemplo de Operadores Ternarios
+Ejemplo de Operadores y Precedencia
