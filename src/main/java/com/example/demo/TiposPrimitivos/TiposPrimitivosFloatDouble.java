@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.TiposPrimitivos;
 
 public class TiposPrimitivosFloatDouble {
     public static void main(String[] args) {
