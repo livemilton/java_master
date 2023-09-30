@@ -31,7 +31,6 @@ Ejemplo de tipos Char y Boolean
 ## Conversion tipos primitivos
 Ejemplo de conversion tipos primitivos
 
-<<<<<<< HEAD
 ## Creacion de Clases y Objetos
 Ejemplo de creacion clase y objeto con instancias
 
@@ -39,7 +38,6 @@ Ejemplo de creacion clase y objeto con instancias
 Ejemplo de creacion de metodo en Clase Aritmetica
 ## Ciclos y ejercicios
 Ejemplo de ciclo while do while y for con y sin etiquetas
-=======
 ## Operadores Java
 Operadores Asignacion
 Operadores Igualdad y Relacionales
@@ -53,4 +51,3 @@ Ejemplo de Operadores y Precedencia
 ## Sentencias de Control
 Ejemplo sentencia If else
 Ejemplo Sentencia Switch
->>>>>>> feature/OperadoresJava
