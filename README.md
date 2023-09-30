@@ -30,3 +30,6 @@ Ejemplo de tipos Char y Boolean
 
 ## Conversion tipos primitivos
 Ejemplo de conversion tipos primitivos
+
+## Creacion de Clases y Objetos
+Ejemplo de creacion clase y objeto con insntancias
