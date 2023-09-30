@@ -36,3 +36,5 @@ Ejemplo de creacion clase y objeto con instancias
 
 ## Creacion de Metodos
 Ejemplo de creacion de metodo en Clase Aritmetica
+## Ciclos y ejercicios
+Ejemplo de ciclo while do while y for con y sin etiquetas
