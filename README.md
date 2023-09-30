@@ -51,3 +51,6 @@ Ejemplo de Operadores y Precedencia
 ## Sentencias de Control
 Ejemplo sentencia If else
 Ejemplo Sentencia Switch
+
+## Constructores
+Ejemplo de constructores vacio y con argumentos
