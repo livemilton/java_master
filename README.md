@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Paso por valor y por referencia
+Teoria y ejemplo de paso por valor y referencia en datos primitivos y objetos
