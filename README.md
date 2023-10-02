@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Return usando tipos Primitivos y Objects
+Teoria y ejemplo uso palabra return en tipos primitivos y Objetos
