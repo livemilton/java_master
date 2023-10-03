@@ -55,5 +55,8 @@ Ejemplo Sentencia Switch
 ## Constructores
 Ejemplo de constructores vacio y con argumentos
 
-## Alcande de variables
+## Alcance de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Palabra null
+Teoria y ejemplo para la palabra null mencion garbage collector
