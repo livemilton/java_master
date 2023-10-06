@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## SobreCarga de constructores
+Teoria y ejemplo SobreCargaConstructores
