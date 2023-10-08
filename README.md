@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Arreglos
+Ejemplo de Arreglos Declaración instanciar inicializar e imprimir valores almacenados
