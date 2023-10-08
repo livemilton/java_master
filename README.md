@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Matrices
+Teoria y ejemplo para matrices Declarar instanciar inicializar e imprimir con ciclo for y sin ciclo for
