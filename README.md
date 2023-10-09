@@ -57,3 +57,6 @@ Ejemplo de constructores vacio y con argumentos
 
 ## Alcande de variables
 Teoria y ejemplo para alcance de variables globales y locales
+
+## Diseño de clases
+Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
