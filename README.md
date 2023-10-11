@@ -60,3 +60,6 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Ejemplo Varargs y enumeraciones
+Teoria y ejemplo diseño varargs ... y enum
