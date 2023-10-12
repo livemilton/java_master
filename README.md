@@ -60,3 +60,7 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## SobreEscitura de  metodos
+Teoria y ejemplo de sobreEscritura de metodos desde la clase padre a la clase hija
+con uso de modificadores de acceso respectivo
