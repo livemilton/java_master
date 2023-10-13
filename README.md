@@ -60,3 +60,6 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## InstanceOf
+Teoria y ejemplo de instanceOf en objetos en java a partir de clases heredades y objetos
