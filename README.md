@@ -60,3 +60,7 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Clases Abstractas
+Teoria y ejemplo clase abstracta y como la clase hija define el comportamiento
+de la clase padre abstracta con sus atributos constructor y metodo abstracto
