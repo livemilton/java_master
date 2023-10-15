@@ -60,3 +60,6 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Manejo de interfaces
+Teroria y ejemplo interface e implementacion
