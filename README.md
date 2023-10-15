@@ -60,3 +60,11 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Ejemplo Conversion Objetos
+Teoria y ejemplo casting objetos con Atributos clase, constructor, metodo, sobreescritura de metodos
+y aplicacion del casting
+
+## Clase object
+Teoria y ejemplo clase object, metodos, hash and equals con implemenacion en objetos
+y ejemplo en pom de libreria para estado en memoria de objetos
