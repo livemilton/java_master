@@ -60,3 +60,6 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Metodos de Entrada/salid
+Teoria y ejemplo metodos de entrada y salida, clase Scanner, System.in, metodo next.in
