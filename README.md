@@ -60,3 +60,8 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Manejo de coleeciones y Generics Java
+Teoria y ejemplo uso ArrayList, HashSet, HashMap y ciclo for para imprimir elementos
+Teoria y ejemplo de objetos en clases genericas
+Teoria y ejemplo de colecciones en clases genericas
