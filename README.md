@@ -60,3 +60,6 @@ Teoria y ejemplo para alcance de variables globales y locales
 
 ## Diseño de clases
 Teoria y ejemplo diseño clases, atributos, contructores, arrays, objetos, metodos
+
+## Laboratorio Programacion Catalogo de peliculas
+CPJLaboratorioFInal, AccesoDatos, AccesoDatosImpl, AccesoDatosEx, EscrituraDatosEx, LecturaDatosEx, CatalogoPeliculas, CatalogoPeliculasImpl, Pelicula. Excepciones implementaciones y metodos, lectura,escritura y manejo archivos.
